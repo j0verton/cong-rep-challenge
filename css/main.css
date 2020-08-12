@@ -1,0 +1,74 @@
+body {
+    background-color: cornflowerblue;
+    margin: 20px;
+    font-family: Tahoma,Verdana,Segoe,sans-serif; 
+
+}
+
+header {
+    border: 2px solid black;
+    color:black;
+    width: 40%;
+    background-color: cornsilk;
+    padding-left:10px;
+}
+h1 {
+    color: blue;
+    font-size: 3em;
+}
+
+
+div {
+    /* border: 2px solid black; */
+    }
+
+section {
+    color: black
+}
+
+img {
+/* border-radius: 8px; */
+padding-top: 10px;
+}
+
+footer {
+    display: flex;
+    background-color: cornsilk;
+    /* flex-direction: column; */
+
+    /* float: right; */
+}
+
+.districtInfo {
+    /* font-size: 1.5em; */
+    margin-top: -20px;
+}
+
+.party {
+    margin-top: -20px;
+}
+
+
+.button {
+    background-color: blue;
+    color: white;
+    padding: 9px 6px;
+    text-align: center;
+    font-size: 14px;
+    width: 100px;
+    margin: 20px;
+    border-radius: 40px;
+
+}
+
+#record {
+    display: flex;
+    justify-content: flex-end
+}
+
+#image {
+    border:5px double black;
+    width: 225;
+    height: 151 
+ 
+}
